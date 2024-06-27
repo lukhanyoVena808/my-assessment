@@ -1,5 +1,12 @@
 # my-assessment
 
+This repository contains the completed tasks for the Qtx/Chisl technical assesment.
+It consists of two distinct tasks, these being:
+
+- [ ] SQL (Task 1)
+- [ ] Python (Task 2)
+
+## Tasks:
 ### Task 1 - SQL
 - The `SQL.py` and `Advanced_SQL.py` files, found in the `Task_1` folder, contain all of the SQL related questions in the assessment.  **These are the only Task 1 files that will be considered in the grading of your assessment.**
 - Task 1 questions are in the form of python functions that simply return a string of your SQL query. The returned SQL query will be run by duckdb's python client as seen in the `Check_your_SQL.ipynb` notebook.
